@@ -4,7 +4,7 @@ import './Panel.dart';
 import './Horarios.dart';
 import './Tareas.dart';
 
-//lol
+//ola
 
 void main() => runApp(new MyApp());
 
